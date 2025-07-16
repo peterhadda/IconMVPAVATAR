@@ -1,0 +1,22 @@
+{
+  "intro": {
+    "prompt": "Hi, I’m ICON. How can I support you today?",
+    "purpose": "Start the interaction"
+  },
+  "faq": {
+    "prompt": "What’s leadership anxiety?",
+    "purpose": "Educational support"
+  },
+  "confidence": {
+    "prompt": "How can I become more confident?",
+    "purpose": "Motivation/coaching"
+  },
+  "reflection": {
+    "prompt": "What went well for you this week?",
+    "purpose": "Self-reflection"
+  },
+  "tip": {
+    "prompt": "Give me a quick leadership tip.",
+    "purpose": "Instant micro-learning"
+  }
+}
